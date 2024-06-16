@@ -1,6 +1,6 @@
 
 # app_confeitaria
-=======
+
 Nome: Livia Rodrigues Cremonez;
 
 Nome: Maria Clara Souza de Lima;
