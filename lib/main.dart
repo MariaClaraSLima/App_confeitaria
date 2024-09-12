@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
       details: 'A Brigadeiria, situada no coração de São Paulo, é um oásis culinário para os amantes de doces. Seu ambiente encantador combina o charme retrô com toques modernos, criando uma atmosfera acolhedora e convidativa. Os aromas sedutores de chocolate e confeitos frescos preenchem o ar, enquanto os clientes se deliciam com uma variedade de brigadeiros, desde os clássicos até os mais criativos e inovadores. Cada mordida é uma explosão de sabor, uma homenagem à tradicional iguaria brasileira que conquista paladares e corações.',
     ),
     Confeitaria(
-      name: 'Dona Nuvem',
+      name: 'Donna Nuvem',
       description: 'A melhor confeitaria temática de SP.',
       image: 'img/donaNuvem.jfif',
       details: 'A Confeitaria Dona Nuvem, localizada em São Paulo, encanta seus visitantes com uma temática lúdica e mágica, inspirada em nuvens e sonhos. Conhecida por suas sobremesas inovadoras, como sorvetes servidos em cones de algodão doce que se assemelham a nuvens, além de uma variedade de bolos, cupcakes e bebidas criativas, a Dona Nuvem oferece uma experiência gastronômica única. O ambiente acolhedor e instagramável, combinado com a alta qualidade dos ingredientes, faz da visita à Dona Nuvem um passeio imperdível para quem busca doces deliciosos e visuais encantadores.',
