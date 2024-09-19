@@ -3,7 +3,7 @@
 
 Nome: Livia Rodrigues Cremonez;
 
-Nome: Maria Clara Souza de Lima;
+Nome: Yasmim Pereira Costa;
 
 Turma: 3°A - DS;
 
