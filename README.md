@@ -3,7 +3,7 @@
 
 Nome: Livia Rodrigues Cremonez;
 
-Nome: Yasmim Pereira Costa;
+Nome: Yasmim Pereira da Costa;
 
 Turma: 3°A - DS;
 
